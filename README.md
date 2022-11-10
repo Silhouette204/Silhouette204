@@ -2,7 +2,7 @@
 
 Im **John Lester Burce** also known as **devLoop**, and I'm a first year college student with taking a **Bachelor of Science Information Technology**, at St. Vincent de Ferrer College of Camarin Inc. I'd want to learn and how to understand the route and designs of being developer so that i can may become a IT professional. My main objective is i will do my best on top and become a software engineer / full stack wed developer.<br><br>
 <a href="https://www.facebook.com/johnlester.burce/"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img><br><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Carl+Casta%C3%B1as%2C+20+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Lester%C3%B1Burce%2C+18+years+old;First-year+College+Student;Aspiring+Website+Developer)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-carlandrewcastanas55@gmail.com-red)](mailto:carlandrewcastanas55@gmail.com) [![](https://img.shields.io/badge/Linkedin-Carl%20Andrew%20Casta%C3%B1as-blue)](https://www.linkedin.com/in/carlcastanas/)
 
