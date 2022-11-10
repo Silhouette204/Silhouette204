@@ -1,22 +1,22 @@
 - <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Developers!.</h1>
 
 Im **John Lester Burce** also known as **devLoop**, and I'm a first year college student with taking a **Bachelor of Science Information Technology**, at St. Vincent de Ferrer College of Camarin Inc. I'd want to learn and how to understand the route and designs of being developer so that i can may become a IT professional. My main objective is i will do my best on top and become a software engineer / full stack wed developer.<br><br>
-<a href="https://www.facebook.com/johnlester.burce/"><img 
+
                                                           
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Lester+Burce%2C+18+years+old;First-year+College+Student;Aspiring+Website+Developer)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/Gmail-carlandrewcastanas55@gmail.com-red)](mailto:carlandrewcastanas55@gmail.com) [![](https://img.shields.io/badge/Linkedin-Carl%20Andrew%20Casta%C3%B1as-blue)](https://www.linkedin.com/in/carlcastanas/)
+[![](https://img.shields.io/badge/Gmail-johnlesterburce1604@gmail.com-red)](mailto:johnlesterburce1604@gmail.com)
 
 ### How to reach me: 
-<a href="mailto: carlandrewcastanas55@gmail.com">
+<a href="mailto: johnlesterburce1604@gmail.com">
 <img src="https://img.shields.io/badge/-carlandrewcastanas55%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
 - 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
-- 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
-- 👀 See my [Personal Portfolio](https://carlcastanas.github.io/portfolio/) to get more info
+- 🔍 I’m looking for connections in <strong>Web Development </strong> Industry.
+- 💬 Feel free to gain knowledge from seniors and me about <strong>Web Development</strong>
+- 👀 See my [Personal Portfolio](https://github.com/Silhouette204) to get more info
 
 ### Tools I work upon : 🛠
 
