@@ -3,7 +3,7 @@
 I'm **John Lester Burce** also known as **devLoop**, and I'm a second-year college student taking a **Bachelor of Science Information Technology**, at St. Vincent de Ferrer College of Camarin Inc. I'd want to learn how to understand the route and designs of being a developer so that I can become an IT professional. My main objective is to do my best and become a software engineer / full-stack web developer.<br><br>
 
                                                           
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Lester+Burce%2C+19+years+old;First-year+College+Student;Aspiring+Website+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Lester+Burce%2C+19+years+old;Second-year+College+Student;Aspiring+Website+Developer)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-johnlesterburce1604@gmail.com-red)](mailto:johnlesterburce1604@gmail.com)
 
