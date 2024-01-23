@@ -7,7 +7,7 @@ I'm **John Lester Burce**, I'm a second-year college student taking a **Bachelor
 
 ### Socials
 [![](https://img.shields.io/badge/Gmail-johnlesterburce1604@gmail.com-red)](mailto:johnlesterburce1604@gmail.com)
-[![](https://img.shields.io/badge/Facebook-02CCFE?style=flat&logo=Facebook)](mailto:lesterburce@yahoo.com)
+[![](https://img.shields.io/badge/Facebook-02CCFE?style=flat&logo=Facebook-lesterburce@yahoo.com)](mailto:lesterburce@yahoo.com)
 
 
 ### How to Reach me
