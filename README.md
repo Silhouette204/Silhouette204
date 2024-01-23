@@ -5,9 +5,10 @@ I'm **John Lester Burce**, I'm a second-year college student taking a **Bachelor
                                                           
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Lester+Burce%2C+19+years+old;Second-year+College+Student;Aspiring+Website+Developer)](https://git.io/typing-svg)
 
+### Socials
 [![](https://img.shields.io/badge/Gmail-johnlesterburce1604@gmail.com-red)](mailto:johnlesterburce1604@gmail.com)
 
-### Socials
+### How to Reach me
 <a href="mailto: johnlesterburce1604@gmail.com">
 <img src="https://img.shields.io/badge/-johnlesterburce1604@gmail.com%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>   
 
