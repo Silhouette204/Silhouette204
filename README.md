@@ -18,7 +18,7 @@ I'm **John Lester Burce**, I'm a second-year college student taking a **Bachelor
 
 - 🔍 I’m looking for connections in <strong>Web Development </strong> Industry.
 - 💬 Feel free to gain knowledge from seniors and me about <strong>Web Development</strong>
-- 👀 See my [Personal Portfolio](https://github.com/Silhouette204) to get more info
+- 👀 See my [Personal Portfolio]([https://github.com/Silhouette204](https://silhouette204.github.io/First-Web-Portfolio/)) to get more info
 
 ### Tools I work on: 🛠
 
