@@ -7,7 +7,8 @@ I'm John Lester Burce, I'm a third-year college student taking a Bachelor of Sci
 Current Status Quo:🔍 <br>
 📌I’m looking for connections in Web Development Industry.<br>
 💬 Feel free to gain knowledge from seniors and me about Web Development<br>
-👀 See my Personal Portfolio to get more info📚 Currently Learning MERN stack development
+👀 See my Personal Portfolio to get more info<br>
+📚 Currently Learning MERN stack development
 
 
 ## 🌐 How to Reach Me:
