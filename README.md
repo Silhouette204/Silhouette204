@@ -1,5 +1,5 @@
  <h1> 👩🏻‍💻📓✍🏻💡 < Hello, Dev Enthusiast!. /></h1><br>
-I'm John Lester Burce, I'm a third-year college student taking a Bachelor of Science in Computer Science at St. Clare College. I'd want to learn how to understand the route and designs of being a developer so that I can become an IT professional. My main objective is to do my best and become a software engineer / full-stack web developer.<br>
+I'm John Lester Burce, I'm a third-year college student taking a Bachelor of Science in Computer Science at St. Clare College. I'd want to learn how to understand the route and designs of being a developer so that I can become an IT professional. My main objective is to do my best and become a software engineer / full-stack web developer.<br> <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Lester+Burce%2C+22+years+old;Third-year+College+Student;Aspiring+Website+Developer)](https://git.io/typing-svg)
 
