@@ -19,7 +19,9 @@ Current Status Quo:🔍 <br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Silhouette204&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
 
 
-![](https://streak-stats.demolab.com/?user=Silhouette204&theme=gotham&hide_border=false)&nbsp;
+![](https://streak-stats.demolab.com/?user=Silhouette204&theme=gotham&hide_border=false)<br>
+
+
 ![](https://github-readme-stats.shion.dev/api?username=Silhouette204&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)
 
 
