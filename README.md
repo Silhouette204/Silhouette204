@@ -2,9 +2,9 @@
  <h1> 👩🏻‍💻📓✍🏻💡 < Hello, Dev Enthusiast!. /></h1><br>
 I'm John Lester Burce, I'm a third-year college student taking a Bachelor of Science in Computer Science at St. Clare College. I'd want to learn how to understand the route and designs of being a developer so that I can become an IT professional. My main objective is to do my best and become a software engineer / full-stack web developer.<br> <br>
 
-<img align="left" height="200" src="https://readme-typing-svg.herokuapp.com?color=%2349F707&size=24&width=450&height=200&lines=I'm+John+Lester+Burce%2C+22+years+old;Third-year+College+Student;Aspiring+Website+Developer" alt="Typing SVG" />
+<img align="left" height="300" src="https://readme-typing-svg.herokuapp.com?color=%2349F707&size=24&width=450&height=200&lines=I'm+John+Lester+Burce%2C+22+years+old;Third-year+College+Student;Aspiring+Website+Developer" alt="Typing SVG" />
 
-<img align="right" width="350" height="300" alt="Coding" src="https://github.com/user-attachments/assets/d155d4bc-035b-4c32-ad53-36836216fdfa"/>
+<img align="right" width="300" height="250" alt="Coding" src="https://github.com/user-attachments/assets/d155d4bc-035b-4c32-ad53-36836216fdfa"/>
 
 <br clear="all" />
 
