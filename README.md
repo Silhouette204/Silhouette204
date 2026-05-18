@@ -1,14 +1,20 @@
  <h1> 👩🏻‍💻📓✍🏻💡 < Hello, Dev Enthusiast!. /></h1><br>
 I'm John Lester Burce, I'm a third-year college student taking a Bachelor of Science in Computer Science at St. Clare College. I'd want to learn how to understand the route and designs of being a developer so that I can become an IT professional. My main objective is to do my best and become a software engineer / full-stack web developer.<br> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+John+Lester+Burce%2C+22+years+old;Third-year+College+Student;Aspiring+Website+Developer)](https://git.io/typing-svg)
+<img align="left" height="200" src="https://readme-typing-svg.herokuapp.com?color=%2349F707&size=24&width=450&height=200&lines=I'm+John+Lester+Burce%2C+22+years+old;Third-year+College+Student;Aspiring+Website+Developer" alt="Typing SVG" />
 
-<h3> About Me:  </h3>
+<img align="right" width="350" height="300" alt="Coding"  src="https://github.com/user-attachments/assets/4b2313dd-95d0-41da-940c-7ccb5e12aa88"/>
+
+<br clear="all" />
+
+
+<h3> About Me:  </h3>  
+
 Current Status Quo:🔍 <br>
-📌I’m looking for connections in Web Development Industry.<br>
+📌I’m looking for connections in the Web Development Industry.<br>
 💬 Feel free to gain knowledge from seniors and me about Web Development<br>
 👀 See my Personal Portfolio to get more info<br>
-📚 Currently Learning MERN stack development
+📚 Currently learning MERN stack development
 
 
 ## 🌐 How to Reach Me:
