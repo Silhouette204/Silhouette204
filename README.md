@@ -41,7 +41,7 @@ Current Status Quo:🔍 <br>
 
 <!-- GitHub Contribution Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Silhouette204/Silhouette204/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Silhouette204/Silhouette204/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
