@@ -44,11 +44,21 @@ Current Status Quo:🔍 <br>
   <img src="https://raw.githubusercontent.com/Silhouette204/Silhouette204/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
----
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,50:228B22,100:006400&height=100&section=footer" width="100%"/>
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Silhouette204.Silhouette204)](https://github.com/Silhouette204/Silhouette204)
-
-Last Edited on: 05/16/2026
+---
+<table width="100%" style="border: none; background: transparent;">
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Silhouette204/Silhouette204">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=Silhouette204.Silhouette204" alt="Visitor Count"/>
+      </a>
+    </td>
+    <td align="right" style="border: none;">
+      Last Edited on: 05/16/2026
+    </td>
+  </tr>
+</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
